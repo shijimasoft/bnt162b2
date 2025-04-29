@@ -30,6 +30,5 @@ Data files
  * [ncov-s.fasta](ncov-s.fasta): the unprocessed RNA of the virus S protein
  * [vaccine-s.fasta](ncov-s.fasta): the unprocessed RNA of the vaccine S protein
  * [side-by-side.csv](side-by-side.csv): the two files aligned, with virual and vaccine codons side by side 
-
-
+ * [vaccine-protein-structure](vaccine-protein-structure): 3D protein structure of BioNTech vaccine predicted with [AlphaFold 3](https://www.nature.com/articles/s41586-024-07487-w) server by Google DeepMind
 
